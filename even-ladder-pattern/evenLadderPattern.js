@@ -23,5 +23,5 @@ module.exports = function evenLadderPattern(num) {
   
     }
     }
-    return newArr;
+    //return newArr;
   }
